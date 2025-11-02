@@ -1,4 +1,4 @@
-# 🧮 Cico FX-420 PLUS – Simple Java Swing Calculator
+# 🧮 Cico FX-420 PLUS – Java Swing Calculator
 
 A simple **desktop calculator application** built using **Java Swing** (NetBeans GUI Builder).  
 The calculator supports basic arithmetic operations — addition, subtraction, multiplication, and division — with a clean interface and interactive hover effects on buttons.
@@ -33,8 +33,10 @@ The calculator supports basic arithmetic operations — addition, subtraction, m
 - **NetBeans GUI Builder**
 
 ---
+## How to run #1 method (no code no IDE, Built version)
+**download and run Assignment_1.jar excutable file**
 
-## ⚙️ How to Run
+## ⚙️ How to Run #2 method
 
 1. **Clone the repository**
    ```bash
